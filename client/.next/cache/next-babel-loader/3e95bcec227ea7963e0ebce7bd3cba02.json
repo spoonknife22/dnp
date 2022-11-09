@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const TOKEN_ID_FETCHING = 'TOKEN_ID_FETCHING';","map":{"version":3,"sources":["C:/Users/Samsung/code/cacp/client/middleware/constants/constants.js"],"names":["TOKEN_ID_FETCHING"],"mappings":"AAAA,OAAO,MAAMA,iBAAiB,GAAG,mBAA1B","sourcesContent":["export const TOKEN_ID_FETCHING = 'TOKEN_ID_FETCHING'"]},"metadata":{},"sourceType":"module"}
